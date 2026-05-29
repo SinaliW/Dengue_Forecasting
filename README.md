@@ -162,11 +162,11 @@ Open the files:
 
 
 
-\* `python\_app.py`
+\* `python_app.py`
 
 \* `requirements.txt`
 
-\* `dengue\_forecasting.ipynb`
+\* `dengue_forecasting.ipynb`
 
 \* `dataset.csv`
 
@@ -198,7 +198,7 @@ Run:
 
 ```bash
 
-streamlit run python\_app.py
+streamlit run python_app.py
 
 ```
 
