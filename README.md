@@ -167,7 +167,7 @@ Open the files:
 
 \* `requirements.txt`
 
-\* `dengue_forecasting.ipynb`
+\* `dengue_forecasting.py`
 
 \* `dataset.csv`
 
