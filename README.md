@@ -112,6 +112,7 @@ Key observations:
 * A **slight increasing trend** is predicted
 * Forecast behavior aligns with the **upward trend observed at the end of 2021**
 * Results can support **public health planning and preventive measures**
+* Achieved MAE of 803.19 and RMSE of 878.77 on test data, demonstrating reasonable predictive performance for highly variable dengue case trends.
 
 \---
 
